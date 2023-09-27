@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocalizerGUI", "LocalizerGUI.csproj", "{420F38E3-02E5-4136-A6C6-C4AA214E7CC2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{420F38E3-02E5-4136-A6C6-C4AA214E7CC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{420F38E3-02E5-4136-A6C6-C4AA214E7CC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{420F38E3-02E5-4136-A6C6-C4AA214E7CC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{420F38E3-02E5-4136-A6C6-C4AA214E7CC2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D50C5E0-565C-4751-ACFF-504F8D68DB52}
+	EndGlobalSection
+EndGlobal
