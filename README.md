@@ -1,4 +1,4 @@
-<a href="https://www.https://www.buymeacoffee.com/boxturtle" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+<a href="https://www.buymeacoffee.com/boxturtle" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 # Project Title
 7 Days to Die Localizer: A Multilingual Translation Tool
